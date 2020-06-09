@@ -60,10 +60,12 @@ The app drawer provides a way to the Categories Screen and the Filters Screen.
 - Filters button will take to the Filters Screen.
   
 ## Favourites Screen
-<p float="left">
-<img src="ReadmeImages/FavouritesScreen1.png" height="400px" width="200px" hspace= "40px">
-<img src="ReadmeImages/FavouritesScreen2.png" height="400px" width="200px" hspace="40px">
-</p>
+<div align="center">
+  <p float="left">
+    <img src="ReadmeImages/FavouritesScreen1.png" height="400px" width="200px" hspace= "40px">
+    <img src="ReadmeImages/FavouritesScreen2.png" height="400px" width="200px" hspace="40px">
+  </p>
+</div>
 
 The favorites screen can navigate through the bottom navigation bar in the Categories Screen. If none of the items are favorited then, it is shown as in the first Figure. If items are favorited, then it is shown as in the second Figure, a list of favorited meal items.
 
