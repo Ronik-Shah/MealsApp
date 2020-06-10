@@ -74,3 +74,6 @@ The favorites screen can navigate through the bottom navigation bar in the Categ
 These are further improvements in the app.
 - The meals and categories data is within the app,i.e, on a file name <i>dummydata.dart</i>. It is not handled online or on a database.
 - There is no state management. All the data is passed through the classic method of passing through constructors.
+
+## Download
+The apk file can be downloaded from [here](https://drive.google.com/file/d/1BBWf4DYkC4WCDJzF6yMMXf78U8p520ki/view?usp=sharing).
